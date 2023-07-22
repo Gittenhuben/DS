@@ -1,4 +1,4 @@
-# Определение стоимости автомобилей
+# Определение стоимости автомобилей<br>(Data Science, Machine Learning)
 
 [ipynb](https://github.com/Gittenhuben/Portfolio/blob/main/Car%20Price%20Prediction%20(DS)/CarPricePrediction.ipynb)
 
