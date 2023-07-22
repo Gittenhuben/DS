@@ -1,4 +1,4 @@
-# Определение возраста покупателей по фотографии<br>(Computer Vision)
+# Определение возраста покупателей по фотографии<br>(Data Science, Deep Learning, Computer Vision)
 
 [ipynb](https://github.com/Gittenhuben/Portfolio/blob/main/Age%20Recognition%20(CV)/AgeRecognition.ipynb)
 
