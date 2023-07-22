@@ -1,4 +1,4 @@
-# Исследование данных о продажах компьютерных игр
+# Исследование данных о продажах компьютерных игр<br>(Data Analytics)
 
 [ipynb](https://github.com/Gittenhuben/Portfolio/blob/main/Game%20Sales%20Research%20(DA)/GameSalesResearch.ipynb)
 
