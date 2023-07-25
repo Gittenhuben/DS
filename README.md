@@ -1,7 +1,3 @@
-# Yandex Practicum 
-
-Здесь собраны некоторые реализованные проекты
-
 |#|Наименование проекта|Описание|Стек|
 |-|-|-|--|
 |1|Project 5:<br>[Game Sales Research (DA)](https://github.com/Gittenhuben/Portfolio/blob/main/Game%20Sales%20Research%20(DA))|Исследование данных о продажах<br>компьютерных игр|Python,<br>**Pandas**, **Numpy**, **Scipy**,<br>**Seaborn**, Matplotlib|
