@@ -11,7 +11,7 @@
 * Python
 * Pandas
 * PIL
-* **TensorFlow**
+* **TensorFlow (Keras)**
 * Seaborn
 * Matplotlib
 
